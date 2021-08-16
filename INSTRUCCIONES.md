@@ -14,7 +14,7 @@ cd downloads
 pwd
 (Copias la ruta)
 cd
-cd KILLER
+cd KILLER-MV
 mv -v (el nombre del virus.bat) y pegas la ruta
 
 Ejemplo
