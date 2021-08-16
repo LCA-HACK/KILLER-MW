@@ -1,0 +1,6 @@
+pkg install -y git
+git clone https://github.com/LCA-HACK/KILLER-MW
+cd KILLER-MV
+chmod +x instalacion.py
+python instalacion.py
+python KILLER.py
